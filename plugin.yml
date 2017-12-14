@@ -1,0 +1,7 @@
+name: ASkyblockTeamChat
+main: me.choohan.askyblock.teamchat.main
+version: 1.0
+commands:
+   tchat:
+      description: Blank description.
+      usage: /<command>
